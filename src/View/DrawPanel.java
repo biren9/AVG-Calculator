@@ -45,6 +45,8 @@ public class DrawPanel extends javax.swing.JPanel {
     protected void paintComponent(Graphics g) {
         g.setColor(new Color(83, 195, 189));
         g.fillRect(0, 0, getWidth(), getHeight());
+        g.setColor(Color.yellow);
+        g.fillOval(0, 0, 20, 20);
     }
 
     
