@@ -10,4 +10,9 @@ package Model;
  */
 public class Calculator {
     
+    int a;
+    int b;
+    
+    .-.-.. IDK!!!!
+    
 }
